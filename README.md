@@ -1,5 +1,5 @@
 # Fed-QSSL
-
+This is the code for the paper: Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity. This work has been accepted at the 38th AAAI Conference on Artificial Intelligence (AAAI-24).
 
 ## Requirments
 ```
@@ -20,11 +20,9 @@ pip install -r requirements.txt
 |   |   |── sampling 	# different sampling regimes for non-IIDness
 |   |   |── update 	    # pipeline for each local client
 |   |   |── models 	    # network architecture
-|   |   |── *_main 	    # main training and testing scripts
+|   |   |── decentralized_ssl_main_he 	    # main training and testing scripts for Fed-QSSL
 |   |   └── ...
 |   |── save 			# logged results
-|   |── scripts 	# experiment scripts
-|   |── misc 			# related scripts for finetuning 
 └── ...
 ```
 
