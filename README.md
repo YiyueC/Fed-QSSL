@@ -1,5 +1,5 @@
 # Fed-QSSL
-This is the code for the paper: Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity. This work has been accepted at the 38th AAAI Conference on Artificial Intelligence (AAAI-24).
+This is the code for the paper: [Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity](https://arxiv.org/pdf/2312.13380.pdf). This work has been accepted at the 38th AAAI Conference on Artificial Intelligence (AAAI-24).
 
 ## Requirments
 ```
